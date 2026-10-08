@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\bin\Debug\net10.0\Praktika3(realnoe).exe
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\bin\Debug\net10.0\Praktika3(realnoe).deps.json
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\bin\Debug\net10.0\Praktika3(realnoe).runtimeconfig.json
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\bin\Debug\net10.0\Praktika3(realnoe).dll
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\bin\Debug\net10.0\Praktika3(realnoe).pdb
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\obj\Debug\net10.0\Praktika3(realnoe).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\obj\Debug\net10.0\Praktika3(realnoe).AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\obj\Debug\net10.0\Praktika3(realnoe).AssemblyInfo.cs
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\obj\Debug\net10.0\Praktika3(realnoe).csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\obj\Debug\net10.0\Praktika3(realnoe).dll
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\obj\Debug\net10.0\refint\Praktika3(realnoe).dll
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\obj\Debug\net10.0\Praktika3(realnoe).pdb
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\obj\Debug\net10.0\Praktika3(realnoe).genruntimeconfig.cache
+C:\Users\Admin\source\repos\Praktika3(realnoe)\Praktika3(realnoe)\obj\Debug\net10.0\ref\Praktika3(realnoe).dll
